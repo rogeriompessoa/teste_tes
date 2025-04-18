@@ -1,0 +1,14 @@
+.BelasArtesContainer {
+    background-color: blue;
+    border: 1px solid  rgb(10, 0, 10) ;
+}
+
+.BelasArtesContent {
+    color: rgb(8, 10, 0);
+    background-color: rgb(221, 3, 50);
+    margin: 0;
+}
+ .p {
+    color: rgb(0, 4, 7);
+    background-color: aquamarine;
+ }
